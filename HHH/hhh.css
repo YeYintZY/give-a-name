@@ -1,0 +1,241 @@
+.a1{
+    background-color: rgba(0, 0, 0, 0.87);
+    width: 100%;
+    height: 70px;
+    margin: 0;
+    padding: 0;
+    position: sticky;
+    top: 0;
+    z-index: 2; 
+}
+p{
+    margin: 0;
+    padding: 0;
+    display: block;
+}
+ .aa{
+    padding: 0;
+    margin: 0;
+    position: relative;
+    top: 15px;
+    font-size: 30px;
+    font-family:segoe script ;
+    color: rgb(207, 224, 14);
+    text-decoration: none;
+    left: 45%;
+} 
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.a2{
+    background-color: rgba(208, 203, 223, 0.863);
+    width: 100%;
+    height: 750px;
+}
+.container1{
+    display: flex;
+    
+}
+.container2{
+    display: flex;
+}
+.m1{
+    background-color: rgb(9, 58, 87);
+    width: 300px;
+    height: 200px;
+    margin-top: 70px;
+    margin-left: 100px;
+    border-radius: 20px;
+    position: relative;
+  overflow: hidden;
+}
+
+.m2{
+    background-color: rgb(9, 58, 87);
+    width: 300px;
+    height: 200px;
+    margin-top: 70px;
+    margin-left: 110px;
+    border-radius: 20px;
+    position: relative;
+  overflow: hidden;
+}
+.m3{
+    background-color: rgb(9, 58, 87);
+    width: 300px;
+    height: 200px;
+    margin-top: 70px;
+    margin-left: 90px;
+    border-radius: 20px;
+    position: relative;
+  overflow: hidden;
+}
+
+.m4{
+    background-color: rgb(9, 58, 87);
+    width: 300px;
+    height: 200px;
+    margin-top: 90px;
+    margin-left: 100px;
+    border-radius: 20px;
+}
+
+.m5{
+    background-color: rgb(9, 58, 87);
+    width: 300px;
+    height: 200px;
+    margin-top: 90px;
+    margin-left: 155px;
+    border-radius: 20px;
+   
+}
+.m6{
+    background-color: rgb(9, 58, 87);
+    width: 300px;
+    height: 200px;
+    margin-top: 90px;
+    margin-left: 158px;
+    border-radius: 20px;
+
+}
+.m1Img {
+    width: 190px;
+    height: 190px;
+    object-fit: cover;
+    position: relative;
+    left: 100px;
+    top: 5px;
+  }
+.m2Img {
+    width: 190px;
+    height: 190px;
+    object-fit: cover;
+    position: relative;
+    left: 100px;
+    top: 5px;
+  }
+.m3Img {
+    width: 190px;
+    height: 190px;
+    object-fit: cover;
+    position: relative;
+    left: 100px;
+    top: 5px;
+  }
+  .m4Img {
+    width: 190px;
+    height: 190px;
+    object-fit: cover;
+    position: relative;
+    left: 110px;
+    bottom: 20px;
+  }
+  .m5Img {
+    width: 190px;
+    height: 190px;
+    object-fit: cover;
+    position: relative;
+    left: 110px;
+    bottom: 20px;
+  }
+  .m6Img {
+    width: 190px;
+    height: 190px;
+    object-fit: cover;
+    position: relative;
+    left: 110px;
+    bottom: 20px;
+  }
+  
+.mc{
+    width: 190px;
+    height: 190px;
+    object-fit: cover;
+    position: absolute;
+    top: 5px;
+    left: 12px;
+    z-index: 1;
+    border-radius: 20px;
+  }
+.c1{
+    position: relative;
+    top: 280px;
+    font-size: 20px;
+    margin:0;
+    padding: 0;
+    right:180px ;
+}
+.d1{
+    position: relative;
+    top: 280px;
+    font-size: 20px;
+    margin:0;
+    padding: 0;
+    right:180px ;
+}
+
+.b1{
+    position: relative;
+    top: 280px;
+    font-size: 20px;
+    margin:0;
+    padding: 0;
+    right:160px ;
+}
+.s1{
+    position: relative;
+    top: 220px;
+    text-align: center;
+    font-size: 20px;
+}
+.s2{
+    position: relative;
+    top: 220px;
+   text-align: center;
+    font-size: 20px;
+}
+.s3{
+    position: relative;
+    top: 220px;
+    text-align: center;
+    font-size: 20px;
+    margin: 0;
+
+}
+.md{
+    width: 190px;
+    height: 190px;
+    object-fit: cover;
+    position: absolute;
+    top: 435px;
+    left: 118px;
+    z-index: 1;
+    border-radius: 20px;
+  }
+  .me{
+    width: 190px;
+    height: 190px;
+    object-fit: cover;
+    position: absolute;
+    top: 435px;
+    left: 573px;
+    z-index: 1;
+    border-radius: 20px;
+  }
+  .mf{
+    width: 190px;
+    height: 190px;
+    object-fit: cover;
+    position: absolute;
+    top: 435px;
+    left: 1033px;
+    z-index: 1;
+    border-radius: 20px;
+  }
+  a{
+    text-decoration: none;
+    color: black;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  }
